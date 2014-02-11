@@ -9,6 +9,9 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+{
+    NSString * instanceVariable;
+}
 
 
 @end
